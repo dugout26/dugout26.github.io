@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 Sitemap: https://dugout26.github.io/sitemap.xml
 Sitemap: https://dugout26.github.io/prosetup/sitemap.xml
+# llms.txt: https://dugout26.github.io/llms.txt
